@@ -1,7 +1,6 @@
 function [Sigma,Hstar,CostNew] = lateFusionMVCupdate(HP,WP,Sigma,GradNew,CostNew,Hstar,option)
 
-%Author Xinwang Liu
-%------------------------------------------------------------------------------%
+
 % Initialize
 %------------------------------------------------------------------------------%
 gold = (sqrt(5)+1)/2 ;
