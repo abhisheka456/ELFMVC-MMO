@@ -1,2 +1,2 @@
 # ELFMVC-MMO
-Code for ELFMVC-MMO CVPR2022
+Code and appendix for ELFMVC-MMO CVPR2022.
